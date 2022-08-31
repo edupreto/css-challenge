@@ -1,5 +1,5 @@
 # css-challenge
-Rotina de estudos em css
+Rotina de estudos CSS
 
 ## 💻 Tecnologias
 
